@@ -1,0 +1,38 @@
+{"version": 1, "uid": -1, "layout": [[[20745, "TG(1)", "KC_K", "KC_L"], 
+                                    ["KC_KP_1", "KC_KP_2", "KC_KP_3", "KC_KP_4"], 
+                                    ["KC_KP_5", "KC_KP_6", "KC_KP_7", "KC_KP_8"], 
+                                    ["KC_KP_9", "KC_KP_0", "KC_KP_DOT", "KC_KP_SLASH"]], 
+                                    
+                                    [["KC_TRNS", "TG(2)", "KC_TRNS", "RESET"], 
+                                    ["KC_F23", "KC_F23", "KC_F23", "KC_F23"], 
+                                    ["KC_BRID", "KC_BRIU", "KC_F23", "KC_F23"], 
+                                    ["KC_VOLD", "KC_VOLU", "KC_F23", "KC_F23"]], 
+                                    
+                                    [["RGB_TOG", "TG(3)", "RGB_HUD", "KC_TRNS"], 
+                                    ["KC_TRNS", "RGB_HUD", "RGB_HUI", "RGB_TOG"], 
+                                    ["RGB_SPD", "RGB_VAD", "RGB_VAI", "RGB_MOD"], 
+                                    ["RGB_SPI", "RGB_SAD", "RGB_SAI", "RGB_RMOD"]], 
+                                    
+                                    [["KC_NO", "TG(0)", "KC_NO", "KC_NO"], 
+                                    ["KC_MSTP", "KC_MPLY", "KC_F23", "KC_F23"], 
+                                    ["KC_MPRV", "KC_MNXT", "KC_F23", "KC_F23"], 
+                                    ["KC_MUTE", "KC_F23", "KC_BRID", "KC_BRIU"]]], 
+                                    
+                                    "encoder_layout": [[[-1, -1], [-1, -1], [-1, -1], [-1, -1], 
+                                    [65283, "KC_A"], [65283, "KC_B"], [65283, "KC_C"], [65283, "KC_D"], [65283, "KC_E"], [65283, "KC_F"], [65283, "KC_G"], [65283, "KC_H"]], 
+                                    [[-1, -1], [-1, -1], [-1, -1], [-1, -1], 
+                                    [65283, "LCTL(KC_A)"], [65283, "LCTL(KC_B)"], [65283, "LCTL(KC_C)"], [65283, "LCTL(KC_D)"], 
+                                    [65283, "LCTL(KC_E)"], [65283, "LCTL(KC_F)"], [65283, "LCTL(KC_G)"], [65283, "LCTL(KC_H)"]], 
+                                    [[-1, -1], [-1, -1], [-1, -1], [-1, -1], 
+                                    [65283, "LSFT(KC_A)"], [65283, "LSFT(KC_B)"], [65283, "LSFT(KC_C)"], [65283, "LSFT(KC_D)"], 
+                                    [65283, "LSFT(KC_E)"], [65283, "LSFT(KC_F)"], [65283, "LSFT(KC_G)"], [65283, "LSFT(KC_H)"]], 
+                                    [[-1, -1], [-1, -1], [-1, -1], [-1, -1], 
+                                    [65283, "C_S(KC_A)"], [65283, "C_S(KC_B)"], [65283, "C_S(KC_C)"], [65283, "C_S(KC_D)"], 
+                                    [65283, "C_S(KC_E)"], [65283, "C_S(KC_F)"], [65283, "C_S(KC_G)"], [65283, "C_S(KC_H)"]]], 
+                                    
+                                    "layout_options": -1, "macro": [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], []], 
+                                    "vial_protocol": -1, 
+                                    "via_protocol": 9, 
+                                    "tap_dance": [], 
+                                    "combo": [], 
+                                    "settings": {}}
